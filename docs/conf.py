@@ -226,6 +226,8 @@ redirects = {}
 
 linkcheck_ignore = [
     "http://127.0.0.1:8000",
+    "https://support.canonical.com/",
+    "https://support-portal.canonical.com/",
     ]
 
 

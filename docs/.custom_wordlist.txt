@@ -1,4 +1,6 @@
 # Leave a blank line at the end of this file to support concatenation
+airgap
+airgapped
 backend
 backends
 Charmcraft
