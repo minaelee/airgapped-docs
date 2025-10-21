@@ -70,7 +70,7 @@ copyright = "%s CC-BY-SA, %s" % (datetime.date.today().year, author)
 # NOTE: The Open Graph Protocol (OGP) enhances page display in a social graph
 #       and is used by social media platforms; see https://ogp.me/
 
-ogp_site_url = "https://canonical-airgapped-docs.readthedocs-hosted.com/"
+ogp_site_url = "https://documentation.ubuntu.com/airgapped/"
 
 
 # Preview name of the documentation website
@@ -165,7 +165,7 @@ html_context = {
 # TODO: If your documentation is hosted on https://docs.ubuntu.com/,
 #       uncomment and update as needed.
 
-# slug = ''
+slug = 'airgapped'
 
 #######################
 # Sitemap configuration: https://sphinx-sitemap.readthedocs.io/
@@ -173,7 +173,7 @@ html_context = {
 
 # Base URL of RTD hosted project
 
-html_baseurl = 'https://canonical-airgapped-docs.readthedocs-hosted.com/'
+html_baseurl = 'https://documentation.ubuntu.com/airgapped/'
 
 sitemap_url_scheme = '{link}'
 
